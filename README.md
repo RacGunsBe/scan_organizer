@@ -1,2 +1,2 @@
-# scan_organizer
+# Scan Organizer
 keep scanned documents in order
